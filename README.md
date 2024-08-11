@@ -42,6 +42,7 @@ This project is a web application that allows users to upload an image, specify 
 4. **Run the application:**
 
     ```bash
+    python main.py
     uvicorn main:app --reload
     ```
 
