@@ -24,13 +24,16 @@ This project is a web application that allows users to upload an image, specify 
 
 1. **Clone the repository:**
 
-
+    ```bash
+    🌐 https://github.com/mehdi-repo/fastapi-background-chnager-ai.git
+    ```
 
 2. **Create and activate a virtual environment:**
 
     ```bash
     python3 -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+    https://github.com/mehdi-repo/fastapi-background-chnager-ai.git
     ```
 
 3. **Install the dependencies:**
