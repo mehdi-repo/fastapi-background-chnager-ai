@@ -48,8 +48,9 @@ This project is a web application that allows users to upload an image, specify 
 
 5. **Access the web application:**
 
+    ```bash
     Open your web browser and go to `http://127.0.0.1:8080`.
-
+    ```
 ## Usage
 
 1. **Upload an Image:** Click on the "Choose File" button to upload an image from your computer.
